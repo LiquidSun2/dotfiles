@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ralph/.config/wpg/wallpapers/wallpaperflare-cropped(3).jpg",
+    "alpha": "66",
+
+    "special": {
+        "background": "#081535",
+        "foreground": "#ffffed",
+        "cursor": "#ffffed"
+    },
+    "colors": {
+        "color0": "#081535",
+        "color1": "#AE9075",
+        "color2": "#E7D0A8",
+        "color3": "#D0B28D",
+        "color4": "#727789",
+        "color5": "#867988",
+        "color6": "#8F8A92",
+        "color7": "#f6ead6",
+        "color8": "#0d2561",
+        "color9": "#f5ba85",
+        "color10": "#ffffbd",
+        "color11": "#ffe9a0",
+        "color12": "#8391c2",
+        "color13": "#ba8cc1",
+        "color14": "#bea1d0",
+        "color15": "#ffffed"
+    }
+}

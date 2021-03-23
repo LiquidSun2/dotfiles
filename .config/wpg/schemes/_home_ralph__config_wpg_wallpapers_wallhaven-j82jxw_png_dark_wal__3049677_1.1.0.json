@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ralph/.config/wpg/wallpapers/wallhaven-j82jxw.png",
+    "alpha": "90",
+
+    "special": {
+        "background": "#2f252f",
+        "foreground": "#fff8ff",
+        "cursor": "#fff8ff"
+    },
+    "colors": {
+        "color0": "#2f252f",
+        "color1": "#DF9DFD",
+        "color2": "#C9ADFE",
+        "color3": "#A6C5F9",
+        "color4": "#AFB4FF",
+        "color5": "#FD9AFC",
+        "color6": "#8DC6FE",
+        "color7": "#f2e6ee",
+        "color8": "#4b3a4b",
+        "color9": "#ffa9ff",
+        "color10": "#e8b5ff",
+        "color11": "#b2ebff",
+        "color12": "#b6bfff",
+        "color13": "#ffa7ff",
+        "color14": "#9cffff",
+        "color15": "#fff8ff"
+    }
+}

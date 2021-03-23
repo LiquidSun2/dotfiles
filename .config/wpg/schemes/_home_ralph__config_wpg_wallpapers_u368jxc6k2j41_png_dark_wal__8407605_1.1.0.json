@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ralph/.config/wpg/wallpapers/u368jxc6k2j41.png",
+    "alpha": "90",
+
+    "special": {
+        "background": "#0F345A",
+        "foreground": "#f0ffff",
+        "cursor": "#f0ffff"
+    },
+    "colors": {
+        "color0": "#0F345A",
+        "color1": "#9AB2CD",
+        "color2": "#6AA1CB",
+        "color3": "#9B9CAB",
+        "color4": "#618EAD",
+        "color5": "#D9A3B3",
+        "color6": "#209ECE",
+        "color7": "#cddce6",
+        "color8": "#154c85",
+        "color9": "#b0e6ff",
+        "color10": "#75d3ff",
+        "color11": "#b4b8f3",
+        "color12": "#6cbbf2",
+        "color13": "#ffbbde",
+        "color14": "#1ad4ff",
+        "color15": "#f0ffff"
+    }
+}

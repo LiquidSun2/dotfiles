@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ralph/.config/wpg/wallpapers/kpab3vcifur21.png",
+    "alpha": "66",
+
+    "special": {
+        "background": "#073642",
+        "foreground": "#fffff0",
+        "cursor": "#fffff0"
+    },
+    "colors": {
+        "color0": "#073642",
+        "color1": "#dc322f",
+        "color2": "#859900",
+        "color3": "#b58900",
+        "color4": "#2aa198",
+        "color5": "#d33682",
+        "color6": "#268bd2",
+        "color7": "#eee8d5",
+        "color8": "#0b5b6f",
+        "color9": "#ff302b",
+        "color10": "#acc501",
+        "color11": "#eab101",
+        "color12": "#29ded0",
+        "color13": "#ff34a8",
+        "color14": "#21b7ff",
+        "color15": "#fffff0"
+    }
+}

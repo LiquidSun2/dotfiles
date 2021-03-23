@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ralph/.config/wpg/wallpapers/wallhaven-r21roj.jpg",
+    "alpha": "90",
+
+    "special": {
+        "background": "#00002A",
+        "foreground": "#e7e7ff",
+        "cursor": "#e7e7ff"
+    },
+    "colors": {
+        "color0": "#00002A",
+        "color1": "#FF4242",
+        "color2": "#59F176",
+        "color3": "#F3E877",
+        "color4": "#66B0FF",
+        "color5": "#F10596",
+        "color6": "#0EF0F0",
+        "color7": "#D0D0FA",
+        "color8": "#01015b",
+        "color9": "#ff4040",
+        "color10": "#5eff8c",
+        "color11": "#ffff83",
+        "color12": "#6de4ff",
+        "color13": "#ff01c4",
+        "color14": "#01ffff",
+        "color15": "#e7e7ff"
+    }
+}

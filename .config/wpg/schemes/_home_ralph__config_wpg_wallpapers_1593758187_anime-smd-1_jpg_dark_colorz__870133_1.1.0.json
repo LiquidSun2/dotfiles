@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ralph/.config/wpg/wallpapers/1593758187_anime-smd-1.jpg",
+    "alpha": "90",
+
+    "special": {
+        "background": "#B3B3B3",
+        "foreground": "#010101",
+        "cursor": "#010101"
+    },
+    "colors": {
+        "color0": "#B3B3B3",
+        "color1": "#744B40",
+        "color2": "#6D6137",
+        "color3": "#765636",
+        "color4": "#435861",
+        "color5": "#6B4A49",
+        "color6": "#61564B",
+        "color7": "#353535",
+        "color8": "#9a9a9a",
+        "color9": "#602b1d",
+        "color10": "#5a4b18",
+        "color11": "#613c17",
+        "color12": "#204351",
+        "color13": "#5a2523",
+        "color14": "#523c25",
+        "color15": "#010101"
+    }
+}

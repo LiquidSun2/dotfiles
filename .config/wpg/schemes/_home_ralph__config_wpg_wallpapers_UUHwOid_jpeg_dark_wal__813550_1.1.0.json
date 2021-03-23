@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ralph/.config/wpg/wallpapers/UUHwOid.jpeg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b2034",
+        "foreground": "#ffe5ff",
+        "cursor": "#ffe5ff"
+    },
+    "colors": {
+        "color0": "#1b2034",
+        "color1": "#A2258B",
+        "color2": "#5F59A2",
+        "color3": "#9D67A7",
+        "color4": "#397DC1",
+        "color5": "#D1589F",
+        "color6": "#3292CE",
+        "color7": "#e6bcd3",
+        "color8": "#2b3455",
+        "color9": "#df23bc",
+        "color10": "#6d63e2",
+        "color11": "#d874ea",
+        "color12": "#39a2ff",
+        "color13": "#ff5fd2",
+        "color14": "#30c1ff",
+        "color15": "#ffe5ff"
+    }
+}
